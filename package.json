@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-app",
+  "version": "1.0.0",
+  "description": "A simple e-commerce website with HTML, CSS, and JavaScript",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": ["ecommerce", "javascript"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
