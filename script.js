@@ -255,6 +255,8 @@ function loadCartFromStorage() {
     }
 }
 
+
+
 const style = document.createElement('style');
 style.textContent = `
     @keyframes slideIn {
