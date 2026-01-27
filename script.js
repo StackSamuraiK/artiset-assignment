@@ -1,4 +1,3 @@
-// Sample Products Data
 const products = [
     {
         id: 1,
